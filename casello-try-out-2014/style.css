@@ -30,9 +30,9 @@ a:hover {
   text-decoration: underline;
 }
 p {margin-bottom: 1em;}
-[align='right'] {text-align: right;}
-[align='center'] {text-align: center;}
-[align='justify'] {text-align: justify;}
+.right {text-align: right;}
+.center {text-align: center;}
+.justify {text-align: justify;}
 blockquote {
   background: #eee;
   margin: 0 -50px;
