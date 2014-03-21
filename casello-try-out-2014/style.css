@@ -44,6 +44,10 @@ blockquote {
   margin: 0 -50px;
   padding: 10px 50px;
 }
+.purple {
+  background: #8E44AD;
+  border-color: #71368A;
+}
 .button {
   background: #c8241b;
   display: inline-block;
